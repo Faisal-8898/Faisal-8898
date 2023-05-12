@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev and Full STack application
 - 🌱 I’m currently learning REACT...
 - 💞️ I’m looking to collaborate on innovative projects...
-- 📫 How to reach me mail: faisalahmed8988@gmail.com
+- 📫 How to reach me via mail-- faisalahmed8988@gmail.com
 
 <!---
 Faisal-8898/Faisal-8898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

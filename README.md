@@ -19,8 +19,9 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
 ## 📊 GitHub Stats:
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Faisal-8898&theme=dark&mode=weekly&card_width=503)](https://git.io/streak-stats)
 <div align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Faisal-8898&theme=dark&mode=weekly&card_width=503" alt="GitHub Streak" />
+  </a>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />

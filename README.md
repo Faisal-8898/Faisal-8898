@@ -1,7 +1,7 @@
 <img width="1440" alt="Screenshot 2023-07-05 at 7 46 34 PM" src="https://github.com/Faisal-8898/Faisal-8898/assets/125754474/05f97f65-2af4-48e6-97dc-45838c9ebfdb">
 
 <h1 align="center">Welcome 👋, </h1>
-<h3>I'm FAISAL AHMED</h3>
+<h3>I'm FAISAL AHMED,</h3>
 I’m interested in web dev and Full STack application<br>🌱 I’m currently learning REACT...<br>💞️ I’m looking to collaborate on complex projects...
 <h3 align="center">A passionate Full-stack developer .</h3>
 

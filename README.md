@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm FAISAL AHMED</h1>
-
+<h1 align="center">Hi 👋, </h1>
+<h3>I'm FAISAL AHMED</h3>
 I’m interested in web dev and Full STack application<br>🌱 I’m currently learning REACT...<br>💞️ I’m looking to collaborate on complex projects...
 <h3 align="center">A passionate Full-stack developer .</h3>
 

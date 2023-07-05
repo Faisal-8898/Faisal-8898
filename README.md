@@ -21,7 +21,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Faisal-8898&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
-![]
 
 ### 🔝 Top Contributed Repo
 

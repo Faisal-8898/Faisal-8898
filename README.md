@@ -23,6 +23,7 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Faisal-8898&theme=dark&mode=weekly&card_width=503" alt="GitHub Streak" />
   </a>
 </div><br>
+![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&theme=transparent)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faisal-8898&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"  />

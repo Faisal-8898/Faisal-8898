@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
 <h3 align="center">
-Passionate Full-Stack Developer with strong problem-solving skills, seeking to apply technical knowledge and creativity to build innovative web solutions. Experienced in front-end and back-end web development, skilled in HTML, CSS, JavaScript, React, Node.js, Express, MongoDB. Enjoys optimizing code and finding efficient solutions to complex problems. Collaborative team player and excellent communicator, eager to join a dynamic organization valuing growth and excellence.</h3>
+
+Driven full-stack developer skilled in front-end, back-end web development. Passionate about creating innovative solutions and optimizing code. Seeking role in dynamic organization.</h3>
 I’m interested in web dev and Full STack application<br>🌱 I’m currently learning REACT...<br>💞️ I’m looking to collaborate on complex projects...
 <br>
  

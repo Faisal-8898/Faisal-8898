@@ -7,8 +7,6 @@ Driven full-stack developer skilled in front-end, back-end web development. Pass
 I’m interested in web dev and Full STack application<br>🌱 I’m currently learning REACT...<br>💞️ I’m looking to collaborate on complex projects...
 <br>
 <br>
- 
-
 
 
 <h3 align="left">Connect with me:</h3>

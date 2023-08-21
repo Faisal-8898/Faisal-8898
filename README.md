@@ -28,16 +28,14 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
 ## 📊 GitHub Stats:
 
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-8898&theme=nightowl&mode=weekly" alt="GitHub Streak" />
-  </a>
-</div><br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Faisal-8898"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faisal-8898&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-8898&theme=nightowl&mode=weekly" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Faisal-8898"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faisal-8898&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" />
+</p>
 
 
 <br><br><br>

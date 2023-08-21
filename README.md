@@ -34,7 +34,7 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
   </a>
 </div><br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&locale=en&theme=transparent" height="190" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&locale=en" height="190" alt="Faisal-8898"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faisal-8898&locale=en&theme=transparent&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph"  />
 </div>
 

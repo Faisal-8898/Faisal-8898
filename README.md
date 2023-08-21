@@ -30,7 +30,7 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Faisal-8898&theme=dark&mode=weekly&card_width=503" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-8898&theme=nightowl&mode=weekly" alt="GitHub Streak" />
   </a>
 </div><br>
 <div align="center">

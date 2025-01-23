@@ -43,7 +43,7 @@ I’m interested in web and os.<br>🌱 I’m currently learning Rust...<br>💞
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-8898&theme=nightowl&mode=weekly" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Faisal-8898"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faisal-8898&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" />
 </p>

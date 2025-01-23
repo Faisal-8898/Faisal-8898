@@ -8,8 +8,8 @@
 <h1 align="center">Hi 👋, I'm Faisal Ahmed</h1>
 <h3 align="center">
 
-Driven full-stack developer skilled in front-end, and back-end development. Passionate about creating innovative solutions and optimizing code. Seeking a role in a dynamic organization.</h3><br><br>
-I’m interested in web dev and Full STack application<br>🌱 I’m currently learning REACT...<br>💞️ I’m looking to collaborate on complex projects...
+Driven full-stack developer skilled in front-end, and back-end development. Passionate about creating distributed low latency system solutions and also interested in RTOS. Seeking a role in a dynamic organization.</h3><br><br>
+I’m interested in web and os.<br>🌱 I’m currently learning Rust...<br>💞️ I’m looking to collaborate on complex projects...
 <br>
 <br>
 

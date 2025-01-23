@@ -29,7 +29,7 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+ <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>  
 </p>
 
 ## 💻 Tech Stack:
@@ -50,8 +50,7 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
 
 
 <br><br><br>
-
-
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Faisal-8898&theme=discord&no-frame=false&no-bg=false&margin-w=4)
@@ -62,7 +61,7 @@ I’m interested in web dev and Full STack application<br>🌱 I’m currently l
 
 ![](https://github-contributor-stats.vercel.app/api?username=Faisal-8898&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+-->
 
 [![](https://visitcount.itsvg.in/api?id=Faisal-8898&icon=0&color=0)](https://visitcount.itsvg.in)
 

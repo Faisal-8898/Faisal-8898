@@ -40,7 +40,7 @@ I’m interested in web and os.<br>🌱 I’m currently learning Rust...<br>💞
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal-8898&theme=nightowl&mode=weekly" alt="GitHub Streak" />
+  ![Faisal-8898's Stats](https://github-readme-stats.vercel.app/api?username=Faisal-8898&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 <!--<p align="center">

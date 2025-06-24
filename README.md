@@ -5,11 +5,12 @@
 </head>
 <!--<img width="1440" alt="Screenshot 2023-07-05 at 7 46 34 PM" src="https://github.com/Faisal-8898/Faisal-8898/assets/125754474/05f97f65-2af4-48e6-97dc-45838c9ebfdb">-->
 <img src="greetings.svg">
-<h1 align="center">Hi , I'm Faisal Ahmed</h1>
-<h4 align="center">
+<h1 align="left">Faisal Ahmed</h1>
+<h4 align="left">
 
-Driven full-stack developer skilled in front-end and back-end development.<br> Passionate about creating embedded system solutions and interested in RTOS. <br></h4><br><br>
-I’m interested in web and os.<br>🌱 I’m currently learning Rust...<br>💞️ I’m looking to collaborate on complex projects...
+My Core expertise lies on building robust and scalable systems from the ground up. With a strong foundation in C# and deep expertise in modern web technologies like Node.js and Go, I bridge the gap between legacy and cloud-native solutions.
+
+Currently, I'm diving deep into **Distributed Systems with Go** to build the next generation of resilient applications.
 <br>
 <br>
 
@@ -43,27 +44,4 @@ I’m interested in web and os.<br>🌱 I’m currently learning Rust...<br>💞
  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
 </p>
 
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&show_icons=true&locale=en&theme=tokyonight" height="190" alt="Faisal-8898"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faisal-8898&locale=en&theme=tokyonight&layout=compact&card_width=320&langs_count=5" height="190" alt="languages graph" />
-</p>
-
-
-<br><br><br>
-<!--
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Faisal-8898&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br><br>
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Faisal-8898&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
--->
-
-[![](https://visitcount.itsvg.in/api?id=Faisal-8898&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </html>

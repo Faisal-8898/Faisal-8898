@@ -3,8 +3,6 @@
  <head>
  
 </head>
-<!--<img width="1440" alt="Screenshot 2023-07-05 at 7 46 34 PM" src="https://github.com/Faisal-8898/Faisal-8898/assets/125754474/05f97f65-2af4-48e6-97dc-45838c9ebfdb">-->
-<img src="greetings.svg">
 <h1 align="left">Faisal Ahmed</h1>
 <h4 align="left">
 

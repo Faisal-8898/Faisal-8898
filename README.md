@@ -28,8 +28,8 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
  <!--<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>  
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/> </a>  
 </p>
 
 ## 💻 Tech Stack:
@@ -39,8 +39,8 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
 ## 📊 GitHub Stats:
 
 
-<p align="center">
+ <!-- <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Faisal-8898&theme=nightowl&show_icons=true&hide_border=true&count_private=true">
-</p>
+</p> -->
 
 </html>

@@ -4,7 +4,7 @@
  
 </head>
 <h1 align="left">Faisal Ahmed</h1>
-<h4 align="left">
+
 
 My Core expertise lies on building robust and scalable systems from the ground up. With a strong foundation in C# and deep expertise in modern web technologies like Node.js and Go, I bridge the gap between legacy and cloud-native solutions.
 

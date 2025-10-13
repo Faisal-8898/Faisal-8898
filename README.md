@@ -5,7 +5,7 @@
 </head>
 <h1 align="left">Faisal Ahmed</h1>
 
-Core expertise lies on building robust and scalable systems from the ground up. Specialized in designing secure and scalable systems. With a strong foundation in C# and deep expertise in modern web technologies like Node.js and Go, I bridge the gap between legacy and cloud-native solutions.
+Core expertise lies on building robust and scalable fullstack systems from the ground up. Specialized in designing secure and scalable systems. With a strong foundation in Nextjs and deep expertise in modern web technologies like Node.js and Go, I bridge the gap between legacy and cloud-native solutions.
 
 Currently, I'm diving deep into **Distributed Systems with Go** to build the next generation of resilient applications.
 <br>

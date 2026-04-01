@@ -13,14 +13,10 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
 
 
 <h3 align="left">Connect with me:</h3>
-<span align="left">
+
  <a href="https://www.linkedin.com/in/faisal-ahmed-695300236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faisal-ahmed-695300236/" height="20" width="30" /></a>
  <a href="https://twitter.com/faaisal_8898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faaisal_8898" height="20" width="30" /></a>
 
- 
- <!-- <a href="https://codeforces.com/profile/The_PrIME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="The PrIME" height="30" width="40" /></a>
- <a href="https://leetcode.com/The_PrIME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="The PrIME" height="30" width="40" /></a> -->
-</span>
 
 
 ## Tech Stack:
@@ -69,8 +65,8 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
 
 <h3 align="left">Problem solving:</h3>
 <p align="left">
+<a href="https://leetcode.com/The_PrIME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="The PrIME" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/The_PrIME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="The PrIME" height="30" width="40" /></a>
- <a href="https://leetcode.com/The_PrIME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="The PrIME" height="30" width="40" /></a>
 </p>
 
 </html>

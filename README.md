@@ -13,14 +13,14 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<span align="left">
  <a href="https://www.linkedin.com/in/faisal-ahmed-695300236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faisal-ahmed-695300236/" height="20" width="30" /></a>
  <a href="https://twitter.com/faaisal_8898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faaisal_8898" height="20" width="30" /></a>
 
  
  <!-- <a href="https://codeforces.com/profile/The_PrIME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="The PrIME" height="30" width="40" /></a>
  <a href="https://leetcode.com/The_PrIME/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="The PrIME" height="30" width="40" /></a> -->
-</p>
+</span>
 
 
 ## Tech Stack:
@@ -46,7 +46,6 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
 ### Backend
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Gin Gonic](https://img.shields.io/badge/Gin-%230094B6.svg?style=flat&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-90c53f.svg?style=flat&logo=go&logoColor=black)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 ### Advanced Tooling, Testing & DevOps

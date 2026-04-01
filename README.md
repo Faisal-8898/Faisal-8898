@@ -47,7 +47,7 @@ Currently, I'm diving deep into **Distributed Systems with Go** to build the nex
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Gin Gonic](https://img.shields.io/badge/Gin-%230094B6.svg?style=flat&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-90c53f.svg?style=flat&logo=go&logoColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 ### Advanced Tooling, Testing & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
